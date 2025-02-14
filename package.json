@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "kennyLoggins": "ts-node server.ts"
+    "start": "ts-node server.ts"
   },
   "keywords": [],
   "author": "",
