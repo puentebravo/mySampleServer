@@ -1,4 +1,6 @@
 {
+  // This is a tsconfig.json. This file contains instructions that dictate how typescript operates in your project.
+  // Here, you can modify typescript to be as strict - or as loose - as you wish. 
   "compilerOptions": {
     /* Visit https://aka.ms/tsconfig to read more about this file */
 
