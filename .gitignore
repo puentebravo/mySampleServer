@@ -1,3 +1,6 @@
+# A standard gitignore for node.js. This ensures log files, node_modules, .env files, and anything else
+# you don't want uploaded to github stays local.
+
 # Logs
 logs
 *.log
